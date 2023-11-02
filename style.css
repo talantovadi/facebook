@@ -1,0 +1,132 @@
+body {
+  padding: 20px;
+}
+
+.icon {
+  margin: 8px;
+}
+
+img {
+  width: 20px;
+  height: 20px;
+  margin: 0 10px;
+}
+
+ul {
+  display: inline-flex;
+  list-style: none;
+}
+
+.navigation,
+.icon {
+  display: inline-flex;
+}
+
+li {
+  padding-left: 0px;
+  font-size: small;
+}
+
+.text1{
+  margin-top: 10px;
+  font-size: medium;
+}
+
+.text2{
+  margin: 10px;
+  font-size: medium
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.button {
+  margin-left: 700px;
+  margin-top: 0;
+  gap: 20px;
+}
+
+.subscribe-button {
+  padding: 5px;
+}
+
+.login-button {
+  padding: 5px;
+}
+
+.text-header {
+  display: flex;
+  gap: 300px;
+  padding: 0;
+}
+
+.title {
+  margin-top: -50px;
+  padding: 0;
+}
+p {
+  margin: 0;
+}
+
+h4 {
+  margin: 0;
+}
+
+h1 {
+  margin: 0px 0px;
+  font-family: Chomsky;
+}
+
+.hr-weak {
+  border: 1px solid rgb(232, 229, 229);
+}
+
+.two-hr {
+  margin: 3px;
+  height: 2px;
+  background-color: black;
+}
+
+.nav-two {
+  padding: 0;
+}
+
+h3 {
+  text-align: center;
+}
+
+.two-in-one {
+  height: 450px;
+  margin: 20px;
+  display: flex;
+
+  gap: 20px;
+}
+
+span {
+  color: red;
+}
+
+.m-ago{
+    color: red;
+}
+
+.first-part {
+  width: 37%;
+  height: 100%;
+  padding-left: 0px;
+  text-align: left;
+}
+
+.vr{
+  width: 1px;
+  height: 25px;
+  background-color: rgb(232, 229, 229);
+}
+
+.nine-plus{
+  width: 25px;
+  border: 1px solid black;
+  border-radius: 50px;
+}
